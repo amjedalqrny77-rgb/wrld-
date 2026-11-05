@@ -1,22 +1,49 @@
 {
-    "version":  "7.6",
-    "url":  "https://raw.githubusercontent.com/amjedalqrny77-rgb/wrld-/refs/heads/main/op-tweak-v7.6.exe",
-    "notes":  "إصلاح التحديث + تنظيف رام تلقائي أقوى",
+    "version":  "7.9",
+    "url":  "https://raw.githubusercontent.com/amjedalqrny77-rgb/wrld-/refs/heads/main/op-tweak-v7.9.exe",
+    "sha256":  "5B1A1F44547A80B98374155236FF0C9DED9E94635571D761B60D457F0DD4D83D",
+    "notes":  "أكبر تحديث: قياس الفريمات الحقيقي، وضع البطولة، فحص الشاشة والرام، والتحديث صار تلقائي",
     "added":  [
-                  "تنظيف الرام التلقائي صار يشتغل بالخلفية بدون ما يعلّق البرنامج",
-                  "إشعار جنب الساعة بكمية الرام اللي انحررت لما يكون البرنامج مصغّر"
+                  "قياس الفريمات الحقيقي قبل وبعد التحسين (متوسط، 1% low، التقطيع، تأخير الضغطة) + صورة للنشر",
+                  "عداد فريمات فوق اللعبة (FPS وحرارة الكرت)",
+                  "وضع البطولة: يوقف التحديثات والإشعارات وبرامج الخلفية وقت الماتش",
+                  "أفضل إعدادات داخل اللعبة بضغطة (Fortnite و Apex و Minecraft) مع زر إرجاع",
+                  "إعدادات خاصة لكل لعبة تشتغل لحالها مع وضع اللعب",
+                  "فحص هيرتز الشاشة وتشغيلها على أعلى هيرتز",
+                  "فحص سرعة الرام (XMP) والشريحة الوحدة",
+                  "صحة الأقراص، والحرارة والخنق الحراري",
+                  "اختبار جودة الاتصال وبنق سيرفرات الألعاب",
+                  "فحص التقطيع من الدرايفرات، وأدوات الماوس (eDPI وتحويل الحساسية)",
+                  "مسح كاش الشيدر، وحذف برامج ويندوز الزايدة",
+                  "اختصارات من داخل اللعبة (Ctrl+Alt+G / F / R / T)",
+                  "حفظ إعداداتك في ملف واسترجاعها، وملخص أسبوعي، ونقطة استعادة أسبوعية",
+                  "نجوم متحركة في الخلفية"
               ],
     "added_en":  [
-                     "Auto RAM clean now runs in the background without freezing the app",
-                     "A notification near the clock shows how much RAM was freed while the app is minimized"
+                     "Real FPS benchmark before and after optimizing (average, 1% low, stutters, input latency) + shareable image",
+                     "In-game FPS counter (FPS and GPU temperature)",
+                     "Tournament Mode: pauses updates, notifications and background apps during matches",
+                     "Best in-game settings in one click (Fortnite, Apex, Minecraft) with a restore button",
+                     "Per-game profiles that apply automatically with Game Mode",
+                     "Display refresh-rate check and one-click highest refresh rate",
+                     "RAM speed (XMP) and single-channel check",
+                     "Drive health, temperatures and thermal throttling",
+                     "Connection quality test and game server ping",
+                     "Driver stutter (DPC) check and mouse tools (eDPI, sensitivity converter)",
+                     "Shader cache cleaner and Windows bloatware removal",
+                     "In-game shortcuts (Ctrl+Alt+G / F / R / T)",
+                     "Backup/restore your settings, weekly summary and weekly restore point",
+                     "Animated stars in the background"
                  ],
     "changed":  [
-                    "التنظيف التلقائي صار يحرر رام فعلي من البرامج الخاملة، وما يلمس اللعبة ولا البرنامج اللي قدامك ولا عمليات الشاشة والصوت",
-                    "إصلاح مشكلة التحديث: النسخة الجديدة تقفل القديمة وتشتغل مكانها تلقائياً بدون ما يختفي البرنامج"
+                    "التحديثات الجاية تتثبت لحالها من داخل البرنامج بضغطة (بدون ما تحمّل يدوي)",
+                    "تذكير قبل ما يخلص اشتراكك عشان ما ترجع إعداداتك",
+                    "جولة تعريفية للمستخدمين الجدد، وتصميم أرتب"
                 ],
     "changed_en":  [
-                       "Auto clean now frees real RAM from idle apps, without touching your game, the app in front of you, or display/audio processes",
-                       "Fixed updating: the new version closes the old one and takes its place automatically"
+                       "Future updates install themselves from inside the app in one click (no manual download)",
+                       "A reminder before your subscription ends so your settings are not reverted",
+                       "An onboarding tour for new users and a cleaner design"
                    ],
     "removed":  [
 
