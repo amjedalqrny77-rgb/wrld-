@@ -1,1 +1,25 @@
-{"url":"https://raw.githubusercontent.com/amjedalqrny77-rgb/wrld-/refs/heads/main/op-tweak-v7.4.exe","version":"7.4","notes":"اكتشاف الألعاب تلقائياً من كل المشغلات مع صورها • هل اللعبة تشتغل على جهازي؟ • بطارية الأجهزة اللاسلكية • البايوس • تحديث سلس"}
+{
+    "version":  "7.5",
+    "url":  "https://raw.githubusercontent.com/amjedalqrny77-rgb/wrld-/refs/heads/main/op-tweak-v7.5.exe",
+    "notes":  "نافذة تحديث كبيرة تبيّن كل الجديد",
+    "added":  [
+                  "نافذة تحديث كبيرة تطلع قدام البرنامج وتبيّن الإضافات والتعديلات واللي انحذف",
+                  "الضغط على إشعار التحديث جنب الساعة يفتح البرنامج على طول"
+              ],
+    "added_en":  [
+                     "A big update window that shows what is new, what changed and what was removed",
+                     "Clicking the update notification near the clock opens the app"
+                 ],
+    "changed":  [
+                    "نص بانر التحديث صار يدعم الإنجليزي"
+                ],
+    "changed_en":  [
+                       "The update banner text now supports English"
+                   ],
+    "removed":  [
+
+                ],
+    "removed_en":  [
+
+                   ]
+}
