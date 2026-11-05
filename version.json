@@ -1,20 +1,22 @@
 {
-    "version":  "7.5",
-    "url":  "https://raw.githubusercontent.com/amjedalqrny77-rgb/wrld-/refs/heads/main/op-tweak-v7.5.exe",
-    "notes":  "نافذة تحديث كبيرة تبيّن كل الجديد",
+    "version":  "7.6",
+    "url":  "https://raw.githubusercontent.com/amjedalqrny77-rgb/wrld-/refs/heads/main/op-tweak-v7.6.exe",
+    "notes":  "إصلاح التحديث + تنظيف رام تلقائي أقوى",
     "added":  [
-                  "نافذة تحديث كبيرة تطلع قدام البرنامج وتبيّن الإضافات والتعديلات واللي انحذف",
-                  "الضغط على إشعار التحديث جنب الساعة يفتح البرنامج على طول"
+                  "تنظيف الرام التلقائي صار يشتغل بالخلفية بدون ما يعلّق البرنامج",
+                  "إشعار جنب الساعة بكمية الرام اللي انحررت لما يكون البرنامج مصغّر"
               ],
     "added_en":  [
-                     "A big update window that shows what is new, what changed and what was removed",
-                     "Clicking the update notification near the clock opens the app"
+                     "Auto RAM clean now runs in the background without freezing the app",
+                     "A notification near the clock shows how much RAM was freed while the app is minimized"
                  ],
     "changed":  [
-                    "نص بانر التحديث صار يدعم الإنجليزي"
+                    "التنظيف التلقائي صار يحرر رام فعلي من البرامج الخاملة، وما يلمس اللعبة ولا البرنامج اللي قدامك ولا عمليات الشاشة والصوت",
+                    "إصلاح مشكلة التحديث: النسخة الجديدة تقفل القديمة وتشتغل مكانها تلقائياً بدون ما يختفي البرنامج"
                 ],
     "changed_en":  [
-                       "The update banner text now supports English"
+                       "Auto clean now frees real RAM from idle apps, without touching your game, the app in front of you, or display/audio processes",
+                       "Fixed updating: the new version closes the old one and takes its place automatically"
                    ],
     "removed":  [
 
