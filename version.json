@@ -1,49 +1,41 @@
 {
-    "version":  "7.9",
-    "url":  "https://raw.githubusercontent.com/amjedalqrny77-rgb/wrld-/refs/heads/main/op-tweak-v7.9.exe",
-    "sha256":  "5B1A1F44547A80B98374155236FF0C9DED9E94635571D761B60D457F0DD4D83D",
-    "notes":  "أكبر تحديث: قياس الفريمات الحقيقي، وضع البطولة، فحص الشاشة والرام، والتحديث صار تلقائي",
+    "version":  "8.0",
+    "url":  "https://raw.githubusercontent.com/amjedalqrny77-rgb/wrld-/refs/heads/main/op-tweak-v8.0.exe",
+    "sha256":  "FA67F6D9EB37287B2E4BCDEE6C944310933D1CFC73C27B4D28ADA99535758ADB",
+    "notes":  "عداد الفريمات صار دقيق ويشتغل فوق الألعاب + حارس الإعدادات وأدوات جديدة",
     "added":  [
-                  "قياس الفريمات الحقيقي قبل وبعد التحسين (متوسط، 1% low، التقطيع، تأخير الضغطة) + صورة للنشر",
-                  "عداد فريمات فوق اللعبة (FPS وحرارة الكرت)",
-                  "وضع البطولة: يوقف التحديثات والإشعارات وبرامج الخلفية وقت الماتش",
-                  "أفضل إعدادات داخل اللعبة بضغطة (Fortnite و Apex و Minecraft) مع زر إرجاع",
-                  "إعدادات خاصة لكل لعبة تشتغل لحالها مع وضع اللعب",
-                  "فحص هيرتز الشاشة وتشغيلها على أعلى هيرتز",
-                  "فحص سرعة الرام (XMP) والشريحة الوحدة",
-                  "صحة الأقراص، والحرارة والخنق الحراري",
-                  "اختبار جودة الاتصال وبنق سيرفرات الألعاب",
-                  "فحص التقطيع من الدرايفرات، وأدوات الماوس (eDPI وتحويل الحساسية)",
-                  "مسح كاش الشيدر، وحذف برامج ويندوز الزايدة",
-                  "اختصارات من داخل اللعبة (Ctrl+Alt+G / F / R / T)",
-                  "حفظ إعداداتك في ملف واسترجاعها، وملخص أسبوعي، ونقطة استعادة أسبوعية",
-                  "نجوم متحركة في الخلفية"
+                  "حارس الإعدادات: يرجّع تعديلاتك لحالها لو تحديث ويندوز شالها",
+                  "حرارة كرت الشاشة لكل الأنواع (NVIDIA و AMD و Intel)",
+                  "فحص الأوفرلايات (ديسكورد، Steam، Game Bar، NVIDIA، AMD) وإطفاؤها",
+                  "منع ويندوز من تبديل تعريف الكرت بتعريف قديم",
+                  "تنظيف ملفات التعريفات القديمة (توفّر جيجات)",
+                  "فحص انحراف عصا اليد مع الـ Deadzone المناسب",
+                  "إطفاء Fullscreen Optimizations لكل لعبة لحالها",
+                  "وضع لابتوب ذكي، وأسرع DNS تلقائي كل أسبوع (اختياري)",
+                  "زر مشاركة نتيجة الفريمات في لوحة صدارة الديسكورد"
               ],
     "added_en":  [
-                     "Real FPS benchmark before and after optimizing (average, 1% low, stutters, input latency) + shareable image",
-                     "In-game FPS counter (FPS and GPU temperature)",
-                     "Tournament Mode: pauses updates, notifications and background apps during matches",
-                     "Best in-game settings in one click (Fortnite, Apex, Minecraft) with a restore button",
-                     "Per-game profiles that apply automatically with Game Mode",
-                     "Display refresh-rate check and one-click highest refresh rate",
-                     "RAM speed (XMP) and single-channel check",
-                     "Drive health, temperatures and thermal throttling",
-                     "Connection quality test and game server ping",
-                     "Driver stutter (DPC) check and mouse tools (eDPI, sensitivity converter)",
-                     "Shader cache cleaner and Windows bloatware removal",
-                     "In-game shortcuts (Ctrl+Alt+G / F / R / T)",
-                     "Backup/restore your settings, weekly summary and weekly restore point",
-                     "Animated stars in the background"
+                     "Tweak guard: restores your tweaks automatically if a Windows update resets them",
+                     "GPU temperature for every brand (NVIDIA, AMD, Intel)",
+                     "Overlay check (Discord, Steam, Game Bar, NVIDIA, AMD) and turning them off",
+                     "Stop Windows from replacing your GPU driver with an old one",
+                     "Old driver files cleanup (frees gigabytes)",
+                     "Controller stick drift test with the right deadzone",
+                     "Disable Fullscreen Optimizations per game",
+                     "Smart laptop mode and weekly automatic fastest DNS (optional)",
+                     "Share your FPS result to the Discord leaderboard"
                  ],
     "changed":  [
-                    "التحديثات الجاية تتثبت لحالها من داخل البرنامج بضغطة (بدون ما تحمّل يدوي)",
-                    "تذكير قبل ما يخلص اشتراكك عشان ما ترجع إعداداتك",
-                    "جولة تعريفية للمستخدمين الجدد، وتصميم أرتب"
+                    "عداد الفريمات صار يقرأ اللعبة اللي قدامك بالضبط ويعطي رقم دقيق",
+                    "العداد يضل فوق اللعبة، ويقدر يطلع على الشاشة الثانية (يشتغل مع أي وضع ملء شاشة)",
+                    "قياس الفريمات صار يكتشف ملف اللعبة الحقيقي تلقائياً",
+                    "رابط الديسكورد الجديد"
                 ],
     "changed_en":  [
-                       "Future updates install themselves from inside the app in one click (no manual download)",
-                       "A reminder before your subscription ends so your settings are not reverted",
-                       "An onboarding tour for new users and a cleaner design"
+                       "The FPS counter now reads exactly the game in front of you and shows an accurate number",
+                       "The counter stays on top of the game and can sit on your second monitor (works with any fullscreen mode)",
+                       "FPS measurement now detects the real game process automatically",
+                       "New Discord link"
                    ],
     "removed":  [
 
