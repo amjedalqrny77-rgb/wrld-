@@ -1,41 +1,25 @@
 {
-    "version":  "8.0",
-    "url":  "https://raw.githubusercontent.com/amjedalqrny77-rgb/wrld-/refs/heads/main/op-tweak-v8.0.exe",
-    "sha256":  "FA67F6D9EB37287B2E4BCDEE6C944310933D1CFC73C27B4D28ADA99535758ADB",
-    "notes":  "عداد الفريمات صار دقيق ويشتغل فوق الألعاب + حارس الإعدادات وأدوات جديدة",
+    "version":  "8.1",
+    "url":  "https://raw.githubusercontent.com/amjedalqrny77-rgb/wrld-/refs/heads/main/op-tweak-v8.1.exe",
+    "sha256":  "E738140024338B800AC2D62A81E55F7FFF018674038FAA23DECC303B4955F6B2",
+    "notes":  "شاشة بداية متحركة + زر المتجر والأسعار",
     "added":  [
-                  "حارس الإعدادات: يرجّع تعديلاتك لحالها لو تحديث ويندوز شالها",
-                  "حرارة كرت الشاشة لكل الأنواع (NVIDIA و AMD و Intel)",
-                  "فحص الأوفرلايات (ديسكورد، Steam، Game Bar، NVIDIA، AMD) وإطفاؤها",
-                  "منع ويندوز من تبديل تعريف الكرت بتعريف قديم",
-                  "تنظيف ملفات التعريفات القديمة (توفّر جيجات)",
-                  "فحص انحراف عصا اليد مع الـ Deadzone المناسب",
-                  "إطفاء Fullscreen Optimizations لكل لعبة لحالها",
-                  "وضع لابتوب ذكي، وأسرع DNS تلقائي كل أسبوع (اختياري)",
-                  "زر مشاركة نتيجة الفريمات في لوحة صدارة الديسكورد"
+                  "شاشة بداية متحركة أول ما تشغّل البرنامج",
+                  "زر (المتجر والأسعار) في الرئيسية يفتح موقع المتجر"
               ],
     "added_en":  [
-                     "Tweak guard: restores your tweaks automatically if a Windows update resets them",
-                     "GPU temperature for every brand (NVIDIA, AMD, Intel)",
-                     "Overlay check (Discord, Steam, Game Bar, NVIDIA, AMD) and turning them off",
-                     "Stop Windows from replacing your GPU driver with an old one",
-                     "Old driver files cleanup (frees gigabytes)",
-                     "Controller stick drift test with the right deadzone",
-                     "Disable Fullscreen Optimizations per game",
-                     "Smart laptop mode and weekly automatic fastest DNS (optional)",
-                     "Share your FPS result to the Discord leaderboard"
+                     "An animated splash screen when you launch the app",
+                     "A (Store \u0026 prices) button on Home that opens the store website"
                  ],
     "changed":  [
-                    "عداد الفريمات صار يقرأ اللعبة اللي قدامك بالضبط ويعطي رقم دقيق",
-                    "العداد يضل فوق اللعبة، ويقدر يطلع على الشاشة الثانية (يشتغل مع أي وضع ملء شاشة)",
-                    "قياس الفريمات صار يكتشف ملف اللعبة الحقيقي تلقائياً",
-                    "رابط الديسكورد الجديد"
+                    "التجديد ورسالة انتهاء الاشتراك صارت تودّي لموقع المتجر",
+                    "رابط الديسكورد الجديد",
+                    "النافذة الرئيسية تظهر بنعومة"
                 ],
     "changed_en":  [
-                       "The FPS counter now reads exactly the game in front of you and shows an accurate number",
-                       "The counter stays on top of the game and can sit on your second monitor (works with any fullscreen mode)",
-                       "FPS measurement now detects the real game process automatically",
-                       "New Discord link"
+                       "Renewal and the subscription-ended message now open the store website",
+                       "New Discord link",
+                       "The main window now fades in smoothly"
                    ],
     "removed":  [
 
