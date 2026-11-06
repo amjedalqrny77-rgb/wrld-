@@ -1,25 +1,23 @@
 {
-    "version":  "8.1",
-    "url":  "https://raw.githubusercontent.com/amjedalqrny77-rgb/wrld-/refs/heads/main/op-tweak-v8.1.exe",
-    "sha256":  "E738140024338B800AC2D62A81E55F7FFF018674038FAA23DECC303B4955F6B2",
-    "notes":  "شاشة بداية متحركة + زر المتجر والأسعار",
+    "version":  "8.2",
+    "url":  "https://raw.githubusercontent.com/amjedalqrny77-rgb/wrld-/refs/heads/main/op-tweak-v8.2.exe",
+    "sha256":  "33D3F1B670DFF5D04A01524DE3A5A0B5D28BB57B5A996502689EC361DF58A651",
+    "notes":  "أفضل إعدادات داخل اللعبة صارت تلقى ألعابك المثبّتة",
     "added":  [
-                  "شاشة بداية متحركة أول ما تشغّل البرنامج",
-                  "زر (المتجر والأسعار) في الرئيسية يفتح موقع المتجر"
+                  "أفضل إعدادات داخل اللعبة لـ Counter-Strike 2 و Rocket League و GTA V",
+                  "اكتشاف تلقائي لكل ألعاب Unreal Engine المثبّتة (PUBG، ARC Raiders، THE FINALS، Palworld، Dead by Daylight وغيرها)",
+                  "زر (دوّر على ألعابي من جديد)"
               ],
     "added_en":  [
-                     "An animated splash screen when you launch the app",
-                     "A (Store \u0026 prices) button on Home that opens the store website"
+                     "Best in-game settings for Counter-Strike 2, Rocket League and GTA V",
+                     "Automatic detection of every installed Unreal Engine game (PUBG, ARC Raiders, THE FINALS, Palworld, Dead by Daylight and more)",
+                     "A (Scan my games again) button"
                  ],
     "changed":  [
-                    "التجديد ورسالة انتهاء الاشتراك صارت تودّي لموقع المتجر",
-                    "رابط الديسكورد الجديد",
-                    "النافذة الرئيسية تظهر بنعومة"
+                    "ملفات إعدادات الألعاب تنحفظ بنفس ترميزها الأصلي عشان اللعبة تقراها صح"
                 ],
     "changed_en":  [
-                       "Renewal and the subscription-ended message now open the store website",
-                       "New Discord link",
-                       "The main window now fades in smoothly"
+                       "Game settings files are saved in their original encoding so the game reads them correctly"
                    ],
     "removed":  [
 
