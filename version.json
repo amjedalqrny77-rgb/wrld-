@@ -1,32 +1,20 @@
 {
-    "version":  "8.3",
-    "url":  "https://raw.githubusercontent.com/amjedalqrny77-rgb/wrld-/refs/heads/main/op-tweak-v8.3.exe",
-    "sha256":  "9F389486E87A1FB32175D60B80B5A1ECD4748008FCB0D8AE1EDFE84D6C878948",
-    "notes":  "مساعد ذكي يعرف جهازك + طبيب التقطيع + تجربة مجانية",
+    "version":  "8.4",
+    "url":  "https://raw.githubusercontent.com/amjedalqrny77-rgb/wrld-/refs/heads/main/op-tweak-v8.4.exe",
+    "sha256":  "83818B12D0FB12715A39A99EE1210EAA9234D6D610312D0BB5F2C3B0E351D3B4",
+    "notes":  "تحسينات على التجربة المجانية والاشتراك",
     "ai_url":  "https://op-tweak-ai.op-tweak-ai.workers.dev/",
     "added":  [
-                  "🤖 المساعد الذكي: اسأله أي شي عن جهازك وألعابك — يعرف مواصفات جهازك",
-                  "🩺 ليش جهازي يقطّع؟ فحص بدقيقة يرتّب المشاكل ويصلّحها بضغطة",
-                  "🛡 حارس وقت اللعب: تنبيه لو شي نزّل أداءك وأنت تلعب",
-                  "🎥 وضع الستريمر لـ OBS + أفضل إعدادات البث لكرتك",
-                  "📊 شاشة الإحصائيات للشاشة الثانية",
-                  "🎁 تجربة مجانية ساعة من شاشة التفعيل"
+                  "📊 لما يخلص اشتراكك تشوف وش سوّى البرنامج لجهازك (التحسينات، الفريمات، الرام) مع زر التجديد"
               ],
     "added_en":  [
-                     "🤖 AI Assistant: ask anything about your PC and games — it knows your specs",
-                     "🩺 Why is my PC stuttering? A one-minute check that ranks problems and fixes them",
-                     "🛡 Game-time guardian: alerts when something hurts your performance while gaming",
-                     "🎥 Streamer mode for OBS + the best streaming settings for your GPU",
-                     "📊 Stats screen for your second monitor",
-                     "🎁 One-hour free trial from the activation screen"
+                     "📊 When your subscription ends you see what the app did for your PC (tweaks, FPS, RAM) with a renew button"
                  ],
     "changed":  [
-                    "إصلاح قياس الفريمات اللي كان ما يقرأ عند بعض الأجهزة",
-                    "التحديث صار يقفل النسخة القديمة نهائياً ويشغّل الجديدة"
+                    "رسالة واضحة في شاشة التفعيل لما تخلص التجربة المجانية"
                 ],
     "changed_en":  [
-                       "Fixed FPS measurement not reading on some PCs",
-                       "Updating now fully closes the old version and starts the new one"
+                       "A clear message on the activation screen when the free trial ends"
                    ],
     "removed":  [
 
