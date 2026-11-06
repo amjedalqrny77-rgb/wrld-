@@ -1,23 +1,32 @@
 {
-    "version":  "8.2",
-    "url":  "https://raw.githubusercontent.com/amjedalqrny77-rgb/wrld-/refs/heads/main/op-tweak-v8.2.exe",
-    "sha256":  "33D3F1B670DFF5D04A01524DE3A5A0B5D28BB57B5A996502689EC361DF58A651",
-    "notes":  "أفضل إعدادات داخل اللعبة صارت تلقى ألعابك المثبّتة",
+    "version":  "8.3",
+    "url":  "https://raw.githubusercontent.com/amjedalqrny77-rgb/wrld-/refs/heads/main/op-tweak-v8.3.exe",
+    "sha256":  "9F389486E87A1FB32175D60B80B5A1ECD4748008FCB0D8AE1EDFE84D6C878948",
+    "notes":  "مساعد ذكي يعرف جهازك + طبيب التقطيع + تجربة مجانية",
+    "ai_url":  "https://op-tweak-ai.op-tweak-ai.workers.dev/",
     "added":  [
-                  "أفضل إعدادات داخل اللعبة لـ Counter-Strike 2 و Rocket League و GTA V",
-                  "اكتشاف تلقائي لكل ألعاب Unreal Engine المثبّتة (PUBG، ARC Raiders، THE FINALS، Palworld، Dead by Daylight وغيرها)",
-                  "زر (دوّر على ألعابي من جديد)"
+                  "🤖 المساعد الذكي: اسأله أي شي عن جهازك وألعابك — يعرف مواصفات جهازك",
+                  "🩺 ليش جهازي يقطّع؟ فحص بدقيقة يرتّب المشاكل ويصلّحها بضغطة",
+                  "🛡 حارس وقت اللعب: تنبيه لو شي نزّل أداءك وأنت تلعب",
+                  "🎥 وضع الستريمر لـ OBS + أفضل إعدادات البث لكرتك",
+                  "📊 شاشة الإحصائيات للشاشة الثانية",
+                  "🎁 تجربة مجانية ساعة من شاشة التفعيل"
               ],
     "added_en":  [
-                     "Best in-game settings for Counter-Strike 2, Rocket League and GTA V",
-                     "Automatic detection of every installed Unreal Engine game (PUBG, ARC Raiders, THE FINALS, Palworld, Dead by Daylight and more)",
-                     "A (Scan my games again) button"
+                     "🤖 AI Assistant: ask anything about your PC and games — it knows your specs",
+                     "🩺 Why is my PC stuttering? A one-minute check that ranks problems and fixes them",
+                     "🛡 Game-time guardian: alerts when something hurts your performance while gaming",
+                     "🎥 Streamer mode for OBS + the best streaming settings for your GPU",
+                     "📊 Stats screen for your second monitor",
+                     "🎁 One-hour free trial from the activation screen"
                  ],
     "changed":  [
-                    "ملفات إعدادات الألعاب تنحفظ بنفس ترميزها الأصلي عشان اللعبة تقراها صح"
+                    "إصلاح قياس الفريمات اللي كان ما يقرأ عند بعض الأجهزة",
+                    "التحديث صار يقفل النسخة القديمة نهائياً ويشغّل الجديدة"
                 ],
     "changed_en":  [
-                       "Game settings files are saved in their original encoding so the game reads them correctly"
+                       "Fixed FPS measurement not reading on some PCs",
+                       "Updating now fully closes the old version and starts the new one"
                    ],
     "removed":  [
 
